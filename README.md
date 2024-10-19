@@ -1,5 +1,5 @@
 This programm, simulates two ideal blocks, which are frictionless, perfectly elastic so that there are no loss in energy when they collide.
-It's true that if they were to be idealthere would be no sound when they collide, but the sound makes it more fun. 
+It's true that if they were to be ideal there would be no sound when they collide, but the sound makes it more fun. 
 The left wall and the ground are also frictionless and perfectly elastic.
 A counter counts the total number of collision, it does not matter if the collision is between the squares or the wall. 
 Pressing the Space tab will reset the experiment and increase the mass of the bigger block.
