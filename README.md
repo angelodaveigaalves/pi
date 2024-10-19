@@ -15,4 +15,4 @@ Unfortunately the programm breaks here.
 "Pi is the bridge between the tangible and the intangible, the finite and the infinite." -Luca Pacioli 
 
 You need a wav soundfile, https://mixkit.co/free-sound-effects/tools/ , i suggest Metal hammer hit, something short. 
-Than paste the file path  click_sound = pygame.mixer.Sound('File _ Path) or disable 3 lines which are commented like this  #!!!!!!!!!!, for no sound.
+Than paste the file path  click_sound = pygame.mixer.Sound('File _ Path) or disable 2 lines which are commented like this  #!!!!!!!!!!, for no sound.
